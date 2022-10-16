@@ -1,0 +1,28 @@
+.main{
+    width: 100%;
+    display: flex;
+    align-content: space-between;
+    flex-direction: row;
+    padding: 30px;
+}
+
+.img1{
+    width: 33%;
+    height:400px;
+    margin-left: 8px;
+}
+.img2{
+    width: 33%;
+    height:400px;
+    margin-right: 10px;
+    margin-left: 10px;;
+}
+.img3{
+    width: 33%;
+    height:400px;
+    margin-right: 10px;
+}
+.desc{
+    text-align: justify;
+    padding: 25px;
+}
